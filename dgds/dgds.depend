@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678475902 source:e:\c++\dgds\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+
